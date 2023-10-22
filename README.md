@@ -1,11 +1,5 @@
-# Road Detection
+# Disaster Response Mapping
 
-First we detect roads using image processing, and classify them into different types based on their nature:
+Aimed to provide real-time, accurate and useful road network data to improve the timeliness of humanitarian aid, Our program takes an input of a recent satellite image and outputs the same image with an overlay of all usable roads with their gradients colour coded for easy reference. 
 
-- Dirt
-- Asphalt
-- Gravel / Mud
-
-Based on their location, we can also find out the slope nature of the road, whether it is steep or gentle.
-
-This data is then colour-coded, and overlaid onto the original image, with a legend to indicate the classifications.
+Our quick generation maps help to reduce "surprises" on the ground, such as unexpected obstructions, so that humanitarian aid planners can quickly deploy their resources. We also chose to include gradient data, as steep slopes can prove difficult to traverse, as there may even be risks of landslides under rainy conditions.
