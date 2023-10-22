@@ -1,5 +1,5 @@
 # Disaster Response Mapping
-Submission for IBM Data Z Datathon. Link to devpost [here](https://devpost.com/software/disaster-response-mapping?ref_content=my-projects-tab&ref_feature=my_projects).
+Submission for IBM Data Z Datathon 2023. Link to devpost [here](https://devpost.com/software/disaster-response-mapping?ref_content=my-projects-tab&ref_feature=my_projects).
 
 ## About
 Aimed to provide real-time, accurate and useful road network data to improve the timeliness of humanitarian aid, Our program takes an input of a recent satellite image and outputs the same image with an overlay of all usable roads with their gradients colour coded for easy reference. 
