@@ -4,4 +4,4 @@ Aimed to provide real-time, accurate and useful road network data to improve the
 
 Our quick generation maps help to reduce "surprises" on the ground, such as unexpected obstructions, so that humanitarian aid planners can quickly deploy their resources. We also chose to include gradient data, as steep slopes can prove difficult to traverse, as there may even be risks of landslides under rainy conditions.
 
-Click ![here](https://mega.nz/fm/I3lwCQ5L) for raw sample input/output files
+Click [here](https://mega.nz/fm/I3lwCQ5L) for raw sample input/output files
