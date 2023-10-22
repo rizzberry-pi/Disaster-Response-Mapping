@@ -13,10 +13,10 @@ Then run the file in terminal with the following argument:
 
 `python main.py --filepath "path-to-input.tif" --output_dir "path-to-output-dir" --dtm_path "path-to-dtm"`
 
-Example Input:
+#### Example Input:
 ![Input](/sample_imgs/input_zoom.jpg)
 
-Output:
-![Output](/sample_imgs/output_zoom.jpg)
+#### Output:
+![Output](/sample_imgs/output_zoom.png)
 
 Click [here](https://mega.nz/fm/I3lwCQ5L) for raw sample input/output files
